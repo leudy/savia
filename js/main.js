@@ -12,7 +12,9 @@ if ('serviceWorker' in navigator) {
 
 
 
-
+function GetListOfVideo() {
+    $.get('');
+}
 
 
 
